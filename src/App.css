@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height:40vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
+
+#App-Table, #App-Table tr td, #App-Table tr th{
+  border: 1px solid #000;
+  margin:1px;
+}
+
